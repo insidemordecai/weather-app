@@ -7,7 +7,7 @@ const list = document.querySelector(".ajax-section .cities");
 Kindly get your personal api key if you intend to use this code
 Register for a key at https://home.openweathermap.org/users/sign_up
 */
-const apiKey = "";
+const apiKey = ""; //enter own api key
 
 form.addEventListener("submit", e => {
   e.preventDefault();
